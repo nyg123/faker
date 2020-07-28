@@ -1,0 +1,19 @@
+{
+  "name": "nyg/faker",
+  "license": "MIT",
+  "description": "模拟中文名和手机号",
+  "authors": [
+    {
+      "name": "nyg",
+      "email": "nyg1991@aliyun.com"
+    }
+  ],
+  "require": {
+    "php": "5.*|7.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Nyg\\Faker\\": "src/"
+    }
+  }
+}
